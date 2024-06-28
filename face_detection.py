@@ -1,7 +1,7 @@
 To get face detection xml file downloade the following from given link : 
 https://github.com/opencv/opencv/tree/master/data/haarcascades
 
-
+for the following program download haarcascade_frontalface_default.xml file
 
 
 import cv2
